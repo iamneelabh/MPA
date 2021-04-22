@@ -16,15 +16,14 @@ For more details refer to: https://drive.google.com/file/d/1F1gIgBGFy8ZFL_XkeSQ8
 
 Instructions:
 
-Pull the repository.
-
-Use Android Studio to Run the App on Emulator.
+1. Pull the repository.
+2. Use Android Studio to Run the App on Emulator.
 
 -OR-
 
 Link to the APK: https://drive.google.com/drive/folders/1Ex44ERIzIyHGpZlvXrKFUuizRmzlZ3cF?usp=sharing
 
-Download the APK
-Allow installation from unknown sources
-Go to the MPA app info in settings and allow all the permissions.
-Now launch the app.
+1. Download the APK
+2. Allow installation from unknown sources
+3. Go to the MPA app info in settings and allow all the permissions.
+4. Now launch the app.
